@@ -35,4 +35,27 @@ The admin dashboard lets the restaurant manage menu items, reservations, contact
 
 ---
 
+# How to Run Eatery Project Locally
+
+## 1. Clone the Repository
+- git clone <repo-url>
+- Go to the project folder on your computer.  
+
+2. **Backend Setup**
+   - Navigate to the backend folder.  
+   - Install dependencies. npm install 
+   - Create a `.env` file containing the port and your MongoDB connection string:
+     - PORT=5000
+     - MONGO_URI=<your-mongodb-connection-string>  
+   - Start the backend server and go to that url and enter /admin.
+   - npm run dev
+   
+3. **Frontend Setup**
+   - Navigate to the frontend folder.  
+   - Install dependencies. npm install  
+   - Start the frontend server.
+   - Open your browser and go to http://localhost:5173 to use the website. 
+
+
+
 
