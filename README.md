@@ -46,7 +46,7 @@ The admin dashboard lets the restaurant manage menu items, reservations, contact
    - Install dependencies. npm install 
    - Create a `.env` file containing the port and your MongoDB connection string:
      - PORT=5000
-     - MONGO_URI=<your-mongodb-connection-string>  
+     - MONGO_URI= <your-mongodb-connection-string>  
    - Start the backend server and go to that url and enter /admin.
    - npm run dev
    
