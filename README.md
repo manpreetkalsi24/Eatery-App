@@ -31,7 +31,7 @@ The admin dashboard lets the restaurant manage menu items, reservations, contact
 - **Frontend:** React.js, React Router, Axios, Vite  
 - **Backend:** Node.js, Express.js, MongoDB  
 - **Styling:** CSS, FontAwesome (for stars)  
-- **Deployment:** Vercel (frontend), Render (backend)  
+- **Deployment:** Vercel (frontend), Render (backend) Note: After deployment, some sections may require CORS or URL adjustments. Local setup ensures all features work.
 
 ---
 
